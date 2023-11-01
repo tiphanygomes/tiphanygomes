@@ -7,6 +7,7 @@
 - ⚡ Language skills: English (fluent), Brazilian Portuguese (fluent), French (in development)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiphanygomes&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiphanygomes)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
